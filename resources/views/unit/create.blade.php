@@ -60,7 +60,7 @@
     </div>
 
 
-    @include('shard.style')
+    @include('shard.script')
 </body>
 
 </html>

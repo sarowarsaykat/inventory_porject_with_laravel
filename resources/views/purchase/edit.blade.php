@@ -143,7 +143,7 @@
 
     </div>
 
-    @include('shard.style')
+    @include('shard.script')
     <!-- jQuery Script -->
     <script>
         $(document).ready(function() {

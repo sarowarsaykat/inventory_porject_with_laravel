@@ -161,7 +161,7 @@
 
     </div>
 
-    @include('shard.style')
+    @include('shard.script')
     <script>
         $(document).ready(function() {
             // Add a new row
